@@ -1,0 +1,30 @@
+.text-brand {
+    color: #9aca40;
+}
+.text-brand2 {
+    color: #70b3bc;
+}
+
+.pending {
+    background-color: red;
+    color: white;
+    padding: 2px 6px;
+    border: none;
+    border-radius: 2px;
+    margin-right: 5px;
+}
+.onGoing {
+    background-color: rgb(155, 155, 69);
+    color: white;
+    padding: 2px 6px;
+    border: none;
+    border-radius: 2px;
+    margin-right: 5px;
+}
+.done {
+    background-color: rgb(69, 146, 69);
+    color: white;
+    padding: 2px 6px;
+    border: none;
+    border-radius: 2px;
+}
